@@ -1,6 +1,5 @@
 # youtube_clone
-
-projeto para fins educacionais
+project made in collaboration with Josafá Mandulão and Paulo Belmont for the discipline DCC917A - Desenvolvimento de Aplicativos Móveis of UFRR
 
 ## Getting Started
 
